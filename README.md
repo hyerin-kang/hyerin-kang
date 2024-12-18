@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+<ul>
+<li><a href="https://ko.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5 Badge"></a></li>
+<li><a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3 Badge"></a></li>
+<li><a href="https://ko.wikipedia.org/wiki/Javascript/"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="Javascript Badge"></a></li>
+<li><a href="https://java.com/ko/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" alt="Java Badge"></a></li>
+<li><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" alt="Spring Badge"></a></li>
+<li><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python Badge"></a></li>
+<li><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white" alt="Mysql Badge"></a></li>
+<li><a href="https://go.mariadb.com/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white" alt="MariadDB Badge"></a></li>
+<li><a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" alt="Github Badge"></a></li>
+</ul>
 <!--
 **hyerin-kang/hyerin-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
