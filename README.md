@@ -1,5 +1,5 @@
 ## Hi there 👋
-ddd
+
 <!--
 **hyerin-kang/hyerin-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
