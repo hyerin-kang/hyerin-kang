@@ -8,6 +8,15 @@
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" alt="Github Badge"></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&amp;logo=Adobe Illustrator&amp;logoColor=white">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyerin-kang&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyerin-kang"
+  width="600"
+  height="300"
+/>
+</a>
+  
 <!--
 **hyerin-kang/hyerin-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
