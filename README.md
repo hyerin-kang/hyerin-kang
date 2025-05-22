@@ -7,10 +7,12 @@
 💻 웹 디자인부터 퍼블리싱까지 경험한 프론트엔드 개발자입니다.<br/>
 디자인 감각과 웹 표준에 대한 이해를 바탕으로,  
 사용자 친화적이고 직관적인 UI 구현에 강점이 있습니다.<br/>
-JavaScript, React, TypeScript, Next.js 등  
-최신 프론트엔드 기술을 익히며 개발 역량을 꾸준히 키워가고 있습니다.
+JavaScript, React, TypeScript, Next.js 등 <br/>
+최신 프론트엔드 기술을 익히며 개발 역량을 꾸준히 키워가고 있습니다.<br/>
 
-<br/><br/>
+<br/>
+
+<a href="https://rinny01.tistory.com">혜린 블로그 바로가기</a><br/>
 
 ---
 
@@ -50,16 +52,6 @@ JavaScript, React, TypeScript, Next.js 등
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/><br/>
-
----
-
-<br/>
-
-### 📝 Blog  
-
-<a href="https://rinny01.tistory.com">혜린 블로그 바로가기</a>
 
 <br/><br/>
 
